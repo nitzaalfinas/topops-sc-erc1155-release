@@ -1,11 +1,11 @@
-# Dokumen tentang ERc1155
+# Dokumen tentang ERC1155
 https://github.com/ethereum/EIPs/issues/1155
 
 # Dokumen tentang ERC165
 https://eips.ethereum.org/EIPS/eip-165
 
 # Contract Address 
-0x1AEFdA025cD8fB43eD15B427654a3951d2aBF866
+0xB85af961A4ef7B46Ac3eA9DC34D94ED7daA37F83
 
 # ABI
 ```
